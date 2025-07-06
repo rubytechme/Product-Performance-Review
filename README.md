@@ -100,22 +100,22 @@ Monthly revenue patterns revealed that April, July, and September were the best-
 Regionally, the South remained the strongest market, while the East showed the most notable year-over-year improvement, presenting clear potential for strategic growth.
 
 ### Key Recommendations
-1. Capitalize on High-Margin Product Shifts
+1. Capitalize on High-Margin Product Shifts:
 - Leverage the growing demand for higher-value products like Monitors and Mice.
 - Optimize inventory and promotion strategies around these categories to maintain upward momentum.
 
-2. Refine Monthly Sales Strategy
+2. Refine Monthly Sales Strategy:
 - Utilize the insight that strong months often follow high-performing prior months.
 - Front-load campaigns, discounts, or product launches in months like March, June, and August to drive stronger revenue in April, July, and September.
 
-3. Explore Regional Growth Opportunities
+3. Explore Regional Growth Opportunities:
 - Maintain strong support and presence in the South region while expanding marketing, partnerships, and logistics in the East, where sales are growing rapidly.
 
-4. Deepen Pricing & Product Analytics
+4. Deepen Pricing & Product Analytics:
 - Conduct a detailed analysis to confirm if the average unit price increased or if product mix shifts explain the revenue surplus in 2024.
 - Use this insight to fine-tune pricing strategy and align future product offerings with high-margin opportunities.
 
-5. Anticipate Demand Shifts
+5. Anticipate Demand Shifts:
 - Since product preference is not consistent year to year, implement quarterly demand forecasting models based on promotions, customer behavior, and seasonality.
 - Remain agile with product sourcing and stock allocation based on upcoming trends.
 
@@ -128,4 +128,9 @@ Regionally, the South remained the strongest market, while the East showed the m
 - Dashboard Wireframing and Design
 - Data Visualization
 - Problem Solving technique
+
+### Connect with me on socials:
+[LinkedIn](https://www.linkedin.com/in/ruby-ihekweme-aat-b25001174/)
+[Blog](https://medium.com/@rubyugonnaya)
+[Github](https://github.com/rubytechme)
 
